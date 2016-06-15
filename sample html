@@ -1,0 +1,39 @@
+<html>
+<head>
+ 
+     <link rel="stylesheet" type="text/css" href="template.css">
+</head>
+<body>
+            <p>Please Select the Option You Want for the Application</p>
+            <select class="input1">
+              <option>IIT</option>
+              <option>NIT</option>
+              <option>DTU</option>
+            </select>
+         <div class="person"><b>Person Information</b></div>
+
+         <div class="registration">
+            <input type="text" placeholder="First Name'" class="input">
+            <input type="text" placeholder="Last Name'" class="input">
+            <input type="text" placeholder=" Profession'" class="input">
+            <input type="text" placeholder="Age'" class="input">
+            <input type="text" placeholder="Blood Group'" class="input">          <input type="text" placeholder="Address'" class="input">
+            <input type="text" placeholder="State'" class="input">
+            <input type="text" placeholder="Phone No.'" class="input"><input type="text" placeholder="Email Id'" class="input">
+            <input type="text" placeholder="Morning or Evening Timing'" class="input">
+             <br><br>
+              <div class="term">Terms*  <label><input type="checkbox"><a href="#" style="color: white"> Terms and Conditions</a></label></div>
+              <div class="red"> Read Carefully!</div>
+               <div clas="money">
+               <a href="#" style="position: relative; top: 30px; left: 20px"><img src="MasterCard.jpg" width="50px" height="30px"></a>
+               <a href="#" style="position: relative; top: 30px; left: 20px"><img src="Paypal-logo.jpg" width="50px" height="30px"></a>
+               <a href="#" style="position: relative; top: 30px; left: 20px"><img src="Visa_Electron.svg.png" width="50px" height="30px"></a>
+               <a href="#" style="position: relative; top: 30px; left: 20px"><img src="American-Express-Logo.png" width="50px" height="30px"></a>
+             </div>
+       
+               <input  class="btn1" type="submit"> Submit</button>
+               <button  class="btn2" type="button">Next to the Price Overview  >></button>
+         </div>
+   
+</body>
+</html>
